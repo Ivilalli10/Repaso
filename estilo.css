@@ -1,0 +1,22 @@
+h1 {
+    color: #B02356;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:black;
+}
+
+h2{
+    color: #D3326C;
+}
+.caracteristicas h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #D3326C;
+}
+img{
+    height: 300px;
+    width: 450px;
+}
